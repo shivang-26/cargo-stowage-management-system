@@ -1,6 +1,6 @@
 # cargo-stowage-management-system
 
-
+```
 cargo-stowage-management-system/
 │── backend/                # Node.js Backend (Express.js + MongoDB)
 │   ├── models/             # Mongoose Schemas
@@ -38,3 +38,4 @@ cargo-stowage-management-system/
 │── README.md               # Project Documentation
 │── .gitignore              # Git Ignore File
 │── .env                    # Environment Variables
+```
